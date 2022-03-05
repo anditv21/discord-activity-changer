@@ -40,7 +40,7 @@ async def rpc(ctx, activity, name):
         if activity == 'l' or activity == 'L':
             await client.change_presence(activity=discord.Activity(type=discord.ActivityType.listening, name=name))
             await ctx.reply("Updated Discord RPC to listening to " + name, mention_author=False)
-        if activity == 'w' or activity == 'w':
+        if activity == 'w' or activity == 'W':
             await client.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name=name))
             await ctx.reply("Updated Discord RPC to watching " + name, mention_author=False)
         if activity == 's' or activity == 'S':
