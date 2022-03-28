@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to discord-activity-changer 👋</h1>
 
 
-> A simple discord activity changer in the form of a selfbot. ()
+> A simple discord activity changer in the form of a selfbot.
 
 ## Requirements
 
