@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 
 TOKEN = ""
-url = "https://twitch.tv/tanzverbot"
+url = "https://twitch.tv/yourtwitchname"
 # definition of client
 client = commands.Bot(command_prefix=">>>", self_bot=True)
 client.remove_command('help')
