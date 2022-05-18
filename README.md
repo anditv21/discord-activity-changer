@@ -36,7 +36,7 @@ python main.py
 
 👤 **anditv21**
 
-* Website: https://gamekiller.eu
+* Website: https://gamekiller.at
 * Github: [@anditv21](https://github.com/anditv21)
 
 ## 🤝 Contributing
